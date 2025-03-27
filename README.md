@@ -5,11 +5,17 @@
 This project predicts future sales for various product families across stores in Ecuador using different machine learning models. It evaluates models such as ARIMA, Random Forest, XGBoost, and LSTM, and provides insights into how external factors impact sales.  
 
 ##📊 Dataset Files
+
 train.csv - Historical sales data
+
 test.csv - Test set for predictions
+
 stores.csv - Store metadata
+
 oil.csv - Daily oil prices
+
 holidays_events.csv - Holiday and event details
+
 transactions.csv - Store transaction data
 
 ##⚙️ Requirements
