@@ -14,16 +14,27 @@ transactions.csv - Store transaction data
 
 ##⚙️ Requirements
 Python 3.9+
+
 Jupyter Notebook
+
 Required Libraries:
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 statsmodels
+
 xgboost
+
 keras
+
 tensorflow
 # 📈 Model Comparison Summary: Sales Forecasting  
 
